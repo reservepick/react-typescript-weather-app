@@ -4,6 +4,8 @@ function App() {
   //returnの中身はHTMLと同じような動きをする
   //JSXと呼ばれる
   //hennkou
+  //codespaces
+
   return (
     <div className="app">
       <h1>Hello,world!</h1>
