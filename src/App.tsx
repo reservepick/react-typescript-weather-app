@@ -1,17 +1,19 @@
 import './App.css';
+//作成したTitleとFormのcomponentをimport
+import Title from './components/Title';
+import Form from './components/Form';
 
 function App() {
   //returnの中身はHTMLと同じような動きをする
   //JSXと呼ばれる
-  //hennkou
-  //codespacesで編集
   return (
     <div className="app">
-      <h1>Hello,world!</h1>
-
+      <Title />
+      <Form />
 
     </div>
   );
 }
 
+//このファイル以外で使うおまじない
 export default App;
