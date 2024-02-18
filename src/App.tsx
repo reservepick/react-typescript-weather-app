@@ -3,6 +3,8 @@ import './App.css';
 import Title from './components/Title';
 import Form from './components/Form';
 
+//new pc test
+
 function App() {
   //returnの中身はHTMLと同じような動きをする
   //JSXと呼ばれる
