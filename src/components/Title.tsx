@@ -1,7 +1,9 @@
 //下記形がreactのベースとなる
 const Title = () => {
     return(
-        <h1>【React Sample】World Weather</h1>
+        <h1>
+            【React Sample】World Weather
+        </h1>
     );
 };
 
